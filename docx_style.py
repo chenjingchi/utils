@@ -9,7 +9,7 @@ def txt_to_docx(txt):
     """Converts text to docx with font style adjusted.
 
     Tibetan: font size: 20, name: 'Microsoft Himalaya'
-    Chinese: font size 10.5 (“小四"), name: '仿宋'
+    Chinese: font size 10.5 (小四), name: '仿宋'
 
     Args:
         txt: str, input text.

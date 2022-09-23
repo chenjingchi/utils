@@ -18,6 +18,7 @@ def txt_to_docx(txt):
         docx object with the font adjusted.
     """
 
+    # Adjust to other font size or types if necessary.
     tibetan_font_size = 20
     tibetan_font_name = 'Microsoft Himalaya'
 
